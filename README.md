@@ -15,4 +15,5 @@ Task 2
 Task 3
 ----
 한글 twitter data text 감정 분석, 워드 클라우드
-vaderSentiment 라이브러리를 이용하여 감정 분석을 하고, 이를 워드클라우드로 시각화한다.
+vaderSentiment 라이브러리를 이용하여 감정 분석을 하고, <br>
+이를 워드클라우드로 시각화한다.
